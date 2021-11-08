@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    14.431364,
+                                    37.0175103,
+                                    0
+                                ],
+                                [
+                                    14.4220162,
+                                    37.0191751,
+                                    0
+                                ],
+                                [
+                                    14.4347191,
+                                    37.0134184,
+                                    0
+                                ],
+                                [
+                                    14.431364,
+                                    37.0175103,
+                                    0
+                                ]
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    14.431364,
+                                    37.0175103,
+                                    0
+                                ],
+                                [
+                                    14.6105003,
+                                    36.9854508,
+                                    0
+                                ],
+                                [
+                                    14.5545387,
+                                    36.8869342,
+                                    0
+                                ],
+                                [
+                                    14.6781349,
+                                    36.8537007,
+                                    0
+                                ],
+                                [
+                                    14.7629357,
+                                    36.9733832,
+                                    0
+                                ],
+                                [
+                                    14.4093132,
+                                    37.0443901,
+                                    0
+                                ],
+                                [
+                                    14.431364,
+                                    37.0175103,
+                                    0
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "name": "Poligono 1",
+                "styleUrl": "#poly-000000-1200-77-nodesc",
+                "styleHash": "4fc78414",
+                "styleMapHash": {
+                    "normal": "#poly-000000-1200-77-nodesc-normal",
+                    "highlight": "#poly-000000-1200-77-nodesc-highlight"
+                },
+                "stroke": "#000000",
+                "stroke-opacity": 1,
+                "stroke-width": 1.2,
+                "fill": "#000000",
+                "fill-opacity": 0.30196078431372547
+            }
+        }
+    ]
+}
